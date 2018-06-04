@@ -1,7 +1,3 @@
 # TodoListProject
 
-Project for educational purposes
-
-Alpha Version
-
-Comment test
+A list to organize your world domination.
